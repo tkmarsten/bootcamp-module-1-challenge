@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this webpage, you may open the page using the Github pages link.
+To use this webpage, you may open the page using the Github pages link or this [link](https://tkmarsten.github.io/bootcamp-module-1-challenge/).
 
 ## Credits
 
@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-N/A
+Please refer to the LICENSE in the repo.
